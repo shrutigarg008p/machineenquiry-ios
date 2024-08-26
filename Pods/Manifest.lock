@@ -1,0 +1,28 @@
+PODS:
+  - CountryPickerSwift (1.8.2)
+  - GoogleMaps (6.2.1):
+    - GoogleMaps/Maps (= 6.2.1)
+  - GoogleMaps/Base (6.2.1)
+  - GoogleMaps/Maps (6.2.1):
+    - GoogleMaps/Base
+  - IQKeyboardManagerSwift (6.5.10)
+
+DEPENDENCIES:
+  - CountryPickerSwift
+  - GoogleMaps
+  - IQKeyboardManagerSwift
+
+SPEC REPOS:
+  trunk:
+    - CountryPickerSwift
+    - GoogleMaps
+    - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  CountryPickerSwift: b2cd8b391a0222bd9a97d09ea30426303adac810
+  GoogleMaps: 20d7b12be49a14287f797e88e0e31bc4156aaeb4
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+
+PODFILE CHECKSUM: 17e5d0daf81fb4b647468ae25f9ea81c5949c305
+
+COCOAPODS: 1.11.2
